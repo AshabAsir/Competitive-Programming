@@ -1,4 +1,4 @@
-# pattern-5
+# pattern-6
 ## For n=4
 
 ### *
