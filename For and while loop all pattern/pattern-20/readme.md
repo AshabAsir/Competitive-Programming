@@ -1,4 +1,4 @@
-# pattern-19
+# pattern-20
 ## For n=4
 
 ### ****
