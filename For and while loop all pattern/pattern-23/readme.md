@@ -1,4 +1,4 @@
-# pattern-22
+# pattern-23
 ## For n=4
 
 ### &nbsp;&nbsp;&nbsp;&nbsp; 1
